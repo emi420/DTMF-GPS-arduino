@@ -1,4 +1,4 @@
 # DTMF Arduino
 
-Play DTMF-coded GPS coordinates.
+Play DTMF encoded GPS coordinates.
 
