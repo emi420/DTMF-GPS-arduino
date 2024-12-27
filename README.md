@@ -1,9 +1,14 @@
-# DTMF Arduino
+# Arduino Radio Map
 
-Play DTMF encoded GPS coordinates.
+Encoding GPS coordinates and play them as DTMF tones.
 
-## License
+## Required Libraries:
 
-You may use this project under the terms of either the MIT License or the GNU General Public License (GPL) Version 3.
+- [DTMFGen] Sketch > Include Library > Add .ZIP Library > libraries/dtmfgen-rev-1.0.0-lib.zip
+- [TinyGPS] Sketch > Include Library > Manage Libraries > TinyGPS > Install
 
-(c) 2019 Emilio Mariscal
+## Licensing
+
+Copyright 2024 Emilio Mariscal
+
+This is free software! you may use this project under the terms of the GNU General Public License (GPL) Version 3.
